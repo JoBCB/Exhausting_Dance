@@ -1,6 +1,7 @@
 # Exhausting_Dance
 
-<!--   ON GOOGLE SEARCH
+< !--   ON GOOGLE SEARCH
+
   // select the element that will be replaced
   var el = document.querySelector('.a4bIc');
   
@@ -12,7 +13,8 @@
   el.parentNode.replaceChild(newEl, el); 
   
   // Invention poem by Gonçalo M. Tavares // Code and Translation by Joana Chicau
--->
+
+-- >
 
 The script is part of the exhibition PERPETUAL INTERPRETER (2019), at LOKALE, Copenhagen.
 
