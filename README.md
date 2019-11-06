@@ -10,14 +10,11 @@
   
   el.parentNode.replaceChild(newEl, el);
   
-  // Invention poem by Gonçalo M. Tavares 
-  // Code &amp Translation by Joana Chicau
+  // Invention poem by Gonçalo M. Tavares; Code &amp Translation by Joana Chicau.
 
 -- >
 
 
-The script is part of the exhibition PERPETUAL INTERPRETER (2019), at LOKALE, Copenhagen.
-
-[Link to exhibition](http://interpreter.works/Chicau)
+The script is part of the exhibition [PERPETUAL INTERPRETER](http://interpreter.works/Chicau) (2019), at LOKALE, Copenhagen for the performance >A Webpage in Three Acts>  by [Joana Chicau](http://joanachicau.com/)
 
 _Made possible with the support of Stimuleringsfonds Creatieve Industrie_
