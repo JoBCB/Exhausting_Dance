@@ -10,7 +10,7 @@
   
   el.parentNode.replaceChild(newEl, el);
   
-  // Invention poem by Gonçalo M. Tavares; Code &amp Translation by Joana Chicau.
+// Invention Poem by Gonçalo M. Tavares; Code & translation by Joana Chicau.
 
 -- >
 
