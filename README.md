@@ -20,3 +20,5 @@ The script is part of the exhibition [PERPETUAL INTERPRETER](http://interpreter.
 _Made possible with the support of [Stimuleringsfonds Creatieve Industrie](https://github.com/JoBCB/Exhausting_Dance)_
 
 ![Logo](https://github.com/JoBCB/Exhausting_Dance/blob/master/SCI_Woordbeeld_EN_3_regels_RGB.jpg){:height="50%" width="50%"}
+
+ <img alt="logo" src="https://github.com/JoBCB/Exhausting_Dance/blob/master/SCI_Woordbeeld_EN_3_regels_RGB.jpg" width="40%">
