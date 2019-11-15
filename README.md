@@ -19,4 +19,4 @@ The script is part of the exhibition [PERPETUAL INTERPRETER](http://interpreter.
 
 _Made possible with the support of [Stimuleringsfonds Creatieve Industrie](https://github.com/JoBCB/Exhausting_Dance)_
 
-![alt text][SCI_Woordbeeld_EN_3_regels_RGB.jpg]
+![Logo][Exhausting_Dance/SCI_Woordbeeld_EN_3_regels_RGB.jpg]
