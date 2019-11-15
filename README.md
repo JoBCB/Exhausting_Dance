@@ -17,4 +17,6 @@
 
 The script is part of the exhibition [PERPETUAL INTERPRETER](http://interpreter.works/Chicau) (2019), at LOKALE, Copenhagen for the performance >A Webpage in Three Acts>  by [Joana Chicau](http://joanachicau.com/)
 
-_Made possible with the support of Stimuleringsfonds Creatieve Industrie_
+_Made possible with the support of [Stimuleringsfonds Creatieve Industrie](https://github.com/JoBCB/Exhausting_Dance)_
+
+![alt text][SCI_Woordbeeld_EN_3_regels_RGB.jpg]
